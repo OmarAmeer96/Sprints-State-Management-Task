@@ -14,14 +14,13 @@ This is a Flutter app demonstrating the use of BLoC (Business Logic Component) f
 
 ## App Demo Video 🎥
 
-[Watch the localization demo video here]()
+[Watch the localization demo video here](https://github.com/user-attachments/assets/07b92412-d0bb-4544-b65d-75f92fc158b4)
 
 ## Screenshots
 
 | Dark Theme      | Light Theme      | Bloc Consumer      | Listener & Builder      |
 | --------------- | ---------------- | ------------------ | ----------------------- |
-| ![Dark Theme]() | ![Light Theme]() | ![Bloc Consumer]() | ![Listener & Builder]() |
-
+| ![Dark Theme](https://github.com/user-attachments/assets/b17d0ab3-dbac-431c-9e63-2b1d7cf75a4d) | ![Light Theme](https://github.com/user-attachments/assets/227745b0-8369-446a-8371-91cd1a5bf84f) | ![Bloc Consumer](https://github.com/user-attachments/assets/23e109a0-c0b8-4c85-87af-ca6c9126a1a3) | ![Listener & Builder](https://github.com/user-attachments/assets/e5f22fd4-1755-4d01-ad51-eabe314b7688) |
 ---
 
 ## Getting Started
